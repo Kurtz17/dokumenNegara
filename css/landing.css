@@ -72,10 +72,10 @@ body {
 
 #button {
     position: absolute;
-    font-size: 1em;
+    font-size: 2em;
     color: white;
     background-color: #8a2be2;
-    padding: 10px 50px;
+    padding: 25px 70px;
     border-radius: 20px;
     text-decoration: none;
     transform: translateY(100px);
